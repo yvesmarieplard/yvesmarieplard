@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yvesmarieplard
-- 👀 I’m interested in Energy, Healthcare and Software
 - 📫 How to reach me : ymplard@gmail.com
 
 <!---
