@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @yvesmarieplard
+- ⛵ Check my resume & portfolio : yvesmarieplard.fr
 - 📫 How to reach me : ymplard@gmail.com
 
 <!---
